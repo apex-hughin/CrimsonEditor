@@ -1,0 +1,47 @@
+Loaded 'ntdll.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\kernel32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\imm32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\user32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\gdi32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\advapi32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\rpcrt4.dll', no matching symbolic information found.
+Loaded symbols for 'C:\WINDOWS\system32\MFC42D.DLL'
+Loaded symbols for 'C:\WINDOWS\system32\MSVCRTD.DLL'
+Loaded 'C:\WINDOWS\system32\shell32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\msvcrt.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\SHLWAPI.DLL', no matching symbolic information found.
+Loaded symbols for 'C:\WINDOWS\system32\MSVCIRTD.DLL'
+Loaded symbols for 'C:\WINDOWS\system32\MFCN42D.DLL'
+Loaded 'C:\WINDOWS\system32\lpk.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\usp10.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\mfc42loc.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.10.0_x-ww_f7fb5805\comctl32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\comctl32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\uxtheme.dll', no matching symbolic information found.
+Loaded 'C:\Program Files\Sony\Jog Dial Navigator\WMHook.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\msctf.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\version.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\msctfime.ime', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\ole32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\imekr61.ime', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\oleaut32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\INCOPS3\ProcMon.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\setupapi.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\apphelp.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\clbcatq.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\comres.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\version.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\cscui.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\cscdll.dll', no matching symbolic information found.
+Warning: GetWindowMenuPopup failed!
+Loaded 'C:\WINDOWS\INCOPS3\PMWCTRL.dll', no matching symbolic information found.
+Loaded 'C:\Program Files\Apoint\Apoint.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\comdlg32.dll', no matching symbolic information found.
+Loaded 'C:\WINDOWS\system32\Vxdif.dll', no matching symbolic information found.
+Detected memory leaks!
+Dumping objects ->
+{1439} normal block at 0x00B782F8, 16 bytes long.
+ Data: <          L_    > 00 00 00 00 00 00 00 00 14 CB 4C 5F 00 00 00 00 
+Object dump complete.
+The thread 0xCE4 has exited with code 0 (0x0).
+The program 'D:\Hobby\cedtdev\Debug\cedt.exe' has exited with code 0 (0x0).

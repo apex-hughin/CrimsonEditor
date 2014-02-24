@@ -1,0 +1,1693 @@
+# Microsoft Developer Studio Generated Dependency File, included by cedt.mak
+
+.\AuxWindow.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\AuxWindowAction.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\FolderDialog.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\AuxWindowHndr.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtApp.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\htmlhelp.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtAppConf.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtAppFile.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OpenRemoteDialog.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtAppHndr.cpp : \
+	".\AboutDialog.h"\
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\FtpSettingsDialog.h"\
+	".\HyperLink.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDoc.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocAnal.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocDictionary.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocEdit.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocEditAdv.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocFile.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OpenRemoteDialog.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocHndr.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\DocumentSummary.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocMap.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocSearch.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocSyntax.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtDocUndo.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtElement.cpp : \
+	".\cedtElement.h"\
+	".\encode.h"\
+	".\RegExp.h"\
+	".\Utility.h"\
+	
+
+.\cedtView.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewAll.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewCaret.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewCommand.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\htmlhelp.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\UserInputDialog.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewConf.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtColors.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewDraw.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewEdit.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewEditAdv.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewEvnt.cpp : \
+	".\AskReplaceDialog.h"\
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\FindDialog.h"\
+	".\FindInFilesDialog.h"\
+	".\GoToDialog.h"\
+	".\MacroDefineDialog.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\ReplaceDialog.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewFormat.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewHighlight.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewHndr.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewMacro.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewMap.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewMisc.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewMove.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewPrint.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewSearch.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewSelect.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\cedtViewUndo.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\ChildFrm.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\FileTab.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\MainFrm.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\MainFrmHndr.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\MainFrmStatus.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\OutputWindow.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\StatusBarEx.cpp : \
+	".\StatusBarEx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"c:\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\CmdLine.cpp : \
+	".\CmdLine.h"\
+	
+
+.\date.cpp : \
+	".\date.h"\
+	
+
+.\encode.cpp : \
+	".\encode.h"\
+	
+
+.\evaluate.cpp : \
+	".\date.h"\
+	".\evaluate.h"\
+	
+
+.\FolderDialog.cpp : \
+	".\FolderDialog.h"\
+	
+
+.\FtpClient.cpp : \
+	".\FtpClient.h"\
+	
+
+.\HyperLink.cpp : \
+	".\HyperLink.h"\
+	
+
+.\PathName.cpp : \
+	".\PathName.h"\
+	
+
+.\RegExp.cpp : \
+	".\RegExp.h"\
+	
+
+.\registry.cpp : \
+	".\registry.h"\
+	
+
+.\RemoteFile.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\FtpClient.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\Separator.cpp : \
+	".\Separator.h"\
+	
+
+.\SizeCBar.cpp : \
+	".\SizeCBar.h"\
+	
+
+.\SortStringArray.cpp : \
+	".\SortStringArray.h"\
+	
+
+.\Utility.cpp : \
+	".\RegExp.h"\
+	".\registry.h"\
+	".\Utility.h"\
+	
+
+.\VerticalStatic.cpp : \
+	".\VerticalStatic.h"\
+	
+
+.\AboutDialog.cpp : \
+	".\AboutDialog.h"\
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\HyperLink.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\AskReplaceDialog.cpp : \
+	".\AskReplaceDialog.h"\
+	
+
+.\DocumentSummary.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\DocumentSummary.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\DummyDialog.cpp : \
+	".\DummyDialog.h"\
+	
+
+.\FindDialog.cpp : \
+	".\FindDialog.h"\
+	
+
+.\FindInFilesDialog.cpp : \
+	".\FindInFilesDialog.h"\
+	".\FolderDialog.h"\
+	
+
+.\FtpAdvancedDialog.cpp : \
+	".\cedtElement.h"\
+	".\FtpAdvancedDialog.h"\
+	
+
+.\FtpPasswordDialog.cpp : \
+	".\FtpPasswordDialog.h"\
+	
+
+.\FtpSettingsDialog.cpp : \
+	".\cedtElement.h"\
+	".\FtpAdvancedDialog.h"\
+	".\FtpSettingsDialog.h"\
+	
+
+.\GoToDialog.cpp : \
+	".\GoToDialog.h"\
+	
+
+.\MacroDefineDialog.cpp : \
+	".\MacroDefineDialog.h"\
+	
+
+.\OpenRemoteDialog.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\FtpPasswordDialog.h"\
+	".\FtpSettingsDialog.h"\
+	".\MainFrm.h"\
+	".\OpenRemoteDialog.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\ReplaceDialog.cpp : \
+	".\ReplaceDialog.h"\
+	
+
+.\UserInputDialog.cpp : \
+	".\UserInputDialog.h"\
+	
+
+.\cedt_us.rc : \
+	".\res\auxwinbuttons.bmp"\
+	".\res\auxwintab.bmp"\
+	".\res\buttons.bmp"\
+	".\res\buttons2.bmp"\
+	".\res\cedt.rc2"\
+	".\res\cedttype.ico"\
+	".\res\filetab.bmp"\
+	".\res\macro.cur"\
+	".\res\mainfrm.ico"\
+	".\res\rarrow.cur"\
+	".\res\remotefile.bmp"\
+	".\res\remotehost.bmp"\
+	".\res\remoteopen.bmp"\
+	".\res\Toolbar.bmp"\
+	".\res\Toolbar2.bmp"\
+	
+
+.\PrefDialog.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogAssociation.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogBackup.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\FolderDialog.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogColors.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtColors.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogCommands.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\FolderDialog.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogFile.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\FolderDialog.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogFilters.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogFonts.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogGeneral.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogMacros.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogPrint.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogSyntax.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogTools.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
+
+.\PrefDialogWordWrap.cpp : \
+	".\AuxWindow.h"\
+	".\cedtApp.h"\
+	".\cedtDoc.h"\
+	".\cedtElement.h"\
+	".\cedtHeader.h"\
+	".\cedtView.h"\
+	".\ChildFrm.h"\
+	".\CmdLine.h"\
+	".\evaluate.h"\
+	".\FileTab.h"\
+	".\MainFrm.h"\
+	".\OutputWindow.h"\
+	".\PathName.h"\
+	".\PrefDialog.h"\
+	".\RegExp.h"\
+	".\registry.h"\
+	".\RemoteFile.h"\
+	".\Separator.h"\
+	".\SizeCBar.h"\
+	".\SortStringArray.h"\
+	".\StatusBarEx.h"\
+	".\Utility.h"\
+	".\VerticalStatic.h"\
+	
